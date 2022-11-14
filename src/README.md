@@ -1,5 +1,3 @@
 # Project Name Source Code
 
-The folders and files for this project are as follows:
-
-...
+Arduino unit testing methods sourced from [Iron Savior](https://stackoverflow.com/users/1449569/iron-savior) at https://stackoverflow.com/a/11437456.
